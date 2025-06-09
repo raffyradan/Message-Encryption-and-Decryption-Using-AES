@@ -1,4 +1,4 @@
-# Message-Encryption-and-Decryption-Using-AES
+# ➡️🔒 Message-Encryption-and-Decryption-Using-AES
 
 - Prompt the user to enter a message for encryption.
 - Encrypt the message using AES in CBC mode.
