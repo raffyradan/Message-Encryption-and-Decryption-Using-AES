@@ -77,9 +77,7 @@ decrypted_message = decrypted_padded[:-padding_length].decode()
 print("Decrypted message:", decrypted_message) </code>
 </div>
 
-### Reflection question: 
-
-<b> What would happen if we always used the same encryption key
+<b>Reflection question:</b> What would happen if we always used the same encryption key
 without an Initialization Vector (IV) when encrypting messages? What kind of attack could
 happen, and how does an Initialization Vector (IV) solve this problem? </b>
 
